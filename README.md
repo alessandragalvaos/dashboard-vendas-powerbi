@@ -1,8 +1,4 @@
 # dashboard-vendas-powerbi
-Dashboard  de vendas desenvolvido em Power BI com KPIs estratégicos e visual premium.
-
-
-
 Dashboard desenvolvido em Power BI com foco em análise comercial, indicadores estratégicos e visualização profissional de dados.
 
 O projeto foi construído utilizando modelagem de dados, DAX e boas práticas de design para dashboards corporativos.
