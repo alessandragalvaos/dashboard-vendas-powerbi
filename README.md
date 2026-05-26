@@ -3,6 +3,8 @@ Dashboard desenvolvido em Power BI com foco em análise comercial, indicadores e
 
 O projeto foi construído utilizando modelagem de dados, DAX e boas práticas de design para dashboards corporativos.
 
+<img width="935" height="524" alt="image" src="https://github.com/user-attachments/assets/26a64509-1e8e-4b68-87f1-5fa057555d67" />
+
 ---
 
 # 🚀 Objetivo do Projeto
