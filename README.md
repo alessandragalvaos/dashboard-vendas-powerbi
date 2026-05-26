@@ -1,2 +1,70 @@
 # dashboard-vendas-powerbi
 Dashboard  de vendas desenvolvido em Power BI com KPIs estratégicos e visual premium.
+
+
+
+Dashboard desenvolvido em Power BI com foco em análise comercial, indicadores estratégicos e visualização profissional de dados.
+
+O projeto foi construído utilizando modelagem de dados, DAX e boas práticas de design para dashboards corporativos.
+
+---
+
+# 🚀 Objetivo do Projeto
+
+Este dashboard tem como objetivo transformar dados de vendas em insights estratégicos para apoio à tomada de decisão.
+
+A solução permite acompanhar:
+- faturamento
+- lucro
+- ticket médio
+- margem de lucro
+- desempenho regional
+- produtos mais vendidos
+- evolução temporal das vendas
+
+---
+
+# 📌 Principais Indicadores (KPIs)
+
+- 💰 Faturamento Total
+- 📈 Lucro Total
+- 🏷️ Ticket Médio
+- 🛒 Quantidade Vendida
+- 📊 Margem %
+- 👥 Clientes Ativos
+- 📦 Pedidos Realizados
+
+---
+
+# 💡 Insights Estratégicos
+
+- A região Oeste lidera o faturamento total da operação.
+- A categoria Tecnologia apresenta maior margem de lucro.
+- Produtos com altos descontos impactam negativamente a lucratividade.
+- A categoria Furniture apresenta baixa rentabilidade.
+- Houve crescimento consistente nas vendas ao longo do ano.
+
+---
+
+# 🛠️ Ferramentas Utilizadas
+
+- Power BI
+- DAX
+- Power Query
+- Modelagem de Dados
+- Excel/CSV
+
+---
+
+# 🎨 Design do Dashboard
+
+O dashboard foi desenvolvido com foco em:
+- visual moderno
+- experiência do usuário
+- design executivo
+- paleta corporativa premium
+- análise intuitiva
+
+---
+
+# 📷 Preview do Dashboard
