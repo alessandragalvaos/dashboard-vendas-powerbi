@@ -30,6 +30,8 @@ A solução permite acompanhar:
 - 👥 Clientes Ativos
 - 📦 Pedidos Realizados
 
+<img width="790" height="105" alt="image" src="https://github.com/user-attachments/assets/11d44b6f-5a01-4202-8060-efb798bdfb28" />
+
 ---
 
 # 💡 Insights Estratégicos
