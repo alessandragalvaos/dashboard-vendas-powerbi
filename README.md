@@ -44,6 +44,8 @@ A solução permite acompanhar:
 - A categoria Furniture apresenta baixa rentabilidade.
 - Houve crescimento consistente nas vendas ao longo do ano.
 
+<img width="153" height="310" alt="image" src="https://github.com/user-attachments/assets/0106ac22-b73f-4ceb-a6cb-4021b8ce30da" />
+
 ---
 
 # 🛠️ Ferramentas Utilizadas
