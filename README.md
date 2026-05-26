@@ -69,4 +69,9 @@ O dashboard foi desenvolvido com foco em:
 
 ---
 
+# 🔗 Contato
+
+- LinkedIn: https://www.linkedin.com/in/alessandra-galvao
+
+
 # 📷 Preview do Dashboard
